@@ -4,15 +4,15 @@
 
 ## Solution
 
-<!-- What changed, in five bullets or fewer. The diff already lists the files. -->
+<!-- What behavior changed, in five bullets or fewer. The diff already lists the files. -->
 
 ## Test Plan
 
-<!-- How you checked it, in four bullets or fewer: the commands you ran and what they printed. -->
+<!-- What a reviewer can do to see the change work, in four bullets or fewer. Name new or changed tests by what they assert, not by count. -->
 
 ## Rollout Plan
 
-<!-- Deploy steps and follow-ups, or N/A. -->
+<!-- Deploy steps and follow-ups in four bullets or fewer, or N/A. -->
 
 ## Links
 
